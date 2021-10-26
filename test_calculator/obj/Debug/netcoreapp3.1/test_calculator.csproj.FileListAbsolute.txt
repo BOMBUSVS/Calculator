@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\test_calculator\test_calculator\bin\Debug\netcoreapp3.1\test_calculator.exe
+C:\Users\1\source\repos\test_calculator\test_calculator\bin\Debug\netcoreapp3.1\test_calculator.deps.json
+C:\Users\1\source\repos\test_calculator\test_calculator\bin\Debug\netcoreapp3.1\test_calculator.runtimeconfig.json
+C:\Users\1\source\repos\test_calculator\test_calculator\bin\Debug\netcoreapp3.1\test_calculator.runtimeconfig.dev.json
+C:\Users\1\source\repos\test_calculator\test_calculator\bin\Debug\netcoreapp3.1\test_calculator.dll
+C:\Users\1\source\repos\test_calculator\test_calculator\bin\Debug\netcoreapp3.1\test_calculator.pdb
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.AssemblyInfo.cs
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.dll
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.pdb
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.genruntimeconfig.cache
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\test_calculator\test_calculator\obj\Debug\netcoreapp3.1\test_calculator.GeneratedMSBuildEditorConfig.editorconfig
